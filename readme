@@ -1,0 +1,5 @@
+Active Directory, finding Service Principal Names.
+    - from: https://stealthbits.com/blog/20170501discovering-service-accounts-without-using-privileges/
+    - Service accounts are attack surfaces for AD.
+    - findSPN.ps1 will scour for service principal names.
+    - findSVC.ps1 will scour for service tag in the common name and OU
